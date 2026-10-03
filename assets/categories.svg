@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640">
+  <rect x="0" y="0" width="1200" height="640" fill="#FAF6EF"/>
+  <rect x="40" y="36" width="1120" height="64" rx="14" fill="#B23A2E"/>
+  <text x="600" y="77" font-size="26" font-weight="600" fill="#FFFFFF" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">12 分类 · 240 个技能</text>
+  <rect x="40" y="120" width="265" height="140" rx="14" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"/>
+  <rect x="64" y="144" width="8" height="8" fill="#B23A2E"/>
+  <text x="64" y="182" font-size="32" font-weight="700" fill="#B23A2E" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">24</text>
+  <text x="64" y="224" font-size="18" fill="#1F1B16" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">命令行与终端</text>
+  <rect x="325" y="120" width="265" height="140" rx="14" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"/>
+  <rect x="349" y="144" width="8" height="8" fill="#B23A2E"/>
+  <text x="349" y="182" font-size="32" font-weight="700" fill="#B23A2E" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">24</text>
+  <text x="349" y="224" font-size="18" fill="#1F1B16" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">系统与运维</text>
+  <rect x="610" y="120" width="265" height="140" rx="14" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"/>
+  <rect x="634" y="144" width="8" height="8" fill="#B23A2E"/>
+  <text x="634" y="182" font-size="32" font-weight="700" fill="#B23A2E" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">20</text>
+  <text x="634" y="224" font-size="18" fill="#1F1B16" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">网络基础与抓包</text>
+  <rect x="895" y="120" width="265" height="140" rx="14" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"/>
+  <rect x="919" y="144" width="8" height="8" fill="#B23A2E"/>
+  <text x="919" y="182" font-size="32" font-weight="700" fill="#B23A2E" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">20</text>
+  <text x="919" y="224" font-size="18" fill="#1F1B16" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">Web与安全</text>
+  <rect x="40" y="280" width="265" height="140" rx="14" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"/>
+  <rect x="64" y="304" width="8" height="8" fill="#B23A2E"/>
+  <text x="64" y="342" font-size="32" font-weight="700" fill="#B23A2E" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">16</text>
+  <text x="64" y="384" font-size="18" fill="#1F1B16" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">隐私与匿名</text>
+  <rect x="325" y="280" width="265" height="140" rx="14" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"/>
+  <rect x="349" y="304" width="8" height="8" fill="#B23A2E"/>
+  <text x="349" y="342" font-size="32" font-weight="700" fill="#B23A2E" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">18</text>
+  <text x="349" y="384" font-size="18" fill="#1F1B16" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">逆向与CTF</text>
+  <rect x="610" y="280" width="265" height="140" rx="14" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"/>
+  <rect x="634" y="304" width="8" height="8" fill="#B23A2E"/>
+  <text x="634" y="342" font-size="32" font-weight="700" fill="#B23A2E" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">14</text>
+  <text x="634" y="384" font-size="18" fill="#1F1B16" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">编辑器与终端美化</text>
+  <rect x="895" y="280" width="265" height="140" rx="14" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"/>
+  <rect x="919" y="304" width="8" height="8" fill="#B23A2E"/>
+  <text x="919" y="342" font-size="32" font-weight="700" fill="#B23A2E" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">18</text>
+  <text x="919" y="384" font-size="18" fill="#1F1B16" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">数据与文本处理</text>
+  <rect x="40" y="440" width="265" height="140" rx="14" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"/>
+  <rect x="64" y="464" width="8" height="8" fill="#B23A2E"/>
+  <text x="64" y="502" font-size="32" font-weight="700" fill="#B23A2E" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">20</text>
+  <text x="64" y="544" font-size="18" fill="#1F1B16" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">效率神器</text>
+  <rect x="325" y="440" width="265" height="140" rx="14" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"/>
+  <rect x="349" y="464" width="8" height="8" fill="#B23A2E"/>
+  <text x="349" y="502" font-size="32" font-weight="700" fill="#B23A2E" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">16</text>
+  <text x="349" y="544" font-size="18" fill="#1F1B16" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">开发与版本控制</text>
+  <rect x="610" y="440" width="265" height="140" rx="14" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"/>
+  <rect x="634" y="464" width="8" height="8" fill="#B23A2E"/>
+  <text x="634" y="502" font-size="32" font-weight="700" fill="#B23A2E" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">26</text>
+  <text x="634" y="544" font-size="18" fill="#1F1B16" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">学习与资源</text>
+  <rect x="895" y="440" width="265" height="140" rx="14" fill="#FFFFFF" stroke="#E8E0D2" stroke-width="1"/>
+  <rect x="919" y="464" width="8" height="8" fill="#B23A2E"/>
+  <text x="919" y="502" font-size="32" font-weight="700" fill="#B23A2E" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">24</text>
+  <text x="919" y="544" font-size="18" fill="#1F1B16" font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif">硬核进阶精选</text>
+</svg>
