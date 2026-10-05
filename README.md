@@ -18,6 +18,8 @@
 
 ---
 
+⭐ 如果对你有帮助，点个 Star 支持中文开源
+
 ## ✨ 为什么值得收藏
 
 - **240 个技能 / 12 个分类**：从原仓库 900+ 条中筛掉小众与失效，留下都是常用硬货；
@@ -196,7 +198,7 @@
 | **GreyNoise**（噪音流量情报） | 区分互联网扫描噪音与真实攻击的威胁情报 | ★★ | https://viz.greynoise.io/table |
 | **builtwith**（技术栈识别） | 在线识别站点使用的框架、CDN 与分析服务 | ★ | https://builtwith.com/ |
 | **CVE Mitre**（CVE 官方库） | CVE 编号的官方发布与权威漏洞定义库 | ★ | https://cve.mitre.org/ |
-| **CVE Details**（CVE 详情检索） | 按厂商/产品/评分检索 CVE 漏洞与统计 | ★ | https://www.cvedetails.com/ |
+| **CVE Details**（CVE 详情检索） | 按厂商、产品、评分检索 CVE 漏洞与统计 | ★ | https://www.cvedetails.com/ |
 | **Exploit DB**（漏洞利用库） | Offensive Security 维护的公开漏洞利用代码库 | ★★ | https://www.exploit-db.com/ |
 | **Lynis**（系统安全审计） | Linux/Unix 主机安全加固与合规扫描工具 | ★★ | https://cisofy.com/lynis/ |
 | **LinEnum**（Linux 枚举脚本） | 一键枚举 Linux 主机本地提权线索的 Shell 脚本 | ★★ | https://github.com/rebootuser/LinEnum |
@@ -428,3 +430,17 @@
 ---
 
 <p align="center">made with ❤️ by <a href="https://github.com/zieang88888">zieang88888</a> · 高星仓库中文解读系列第 10 弹</p>
+
+
+## 姊妹项目
+
+中文开源矩阵，一网打尽开发者的知识库：
+
+- [zhskills · 中文技能库](https://github.com/zieang88888/zhskills)
+- [awesome-ai-tools-zh · AI 工具导航](https://github.com/zieang88888/awesome-ai-tools-zh)
+- [free-programming-books-zh · 编程书籍大全](https://github.com/zieang88888/free-programming-books-zh)
+- [system-design-zh · 系统设计面试](https://github.com/zieang88888/system-design-zh)
+- [awesome-python-zh · Python 生态导航](https://github.com/zieang88888/awesome-python-zh)
+- [ohmyzsh-zh · 终端效率神器](https://github.com/zieang88888/ohmyzsh-zh)
+- [llm-course-zh · LLM 课程导航](https://github.com/zieang88888/llm-course-zh)
+- [design-resources-for-developers-zh · 设计资源大全](https://github.com/zieang88888/design-resources-for-developers-zh)
